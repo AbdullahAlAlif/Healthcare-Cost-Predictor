@@ -18,7 +18,7 @@ Here is how the app interface looks:
 The predictive model was trained using a dataset from Kaggle. The dataset consists of various features related to healthcare costs.
 
 ### Dataset
-![Dataset](Cpture2.png)
+![Dataset](Capture2.png)
 
 ### Jupyter Notebook
 The model was developed and trained using a Jupyter Notebook.
