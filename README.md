@@ -9,10 +9,9 @@ This project is a web application that predicts healthcare costs based on user i
 - **MinMax Scaling**: The app internally scales the age and BMI inputs for better prediction accuracy.
 - **Regression Algorithm**: The app uses a regression algorithm to predict healthcare costs based on the provided.
 
-### App Interface
-Here is how the app interface looks:
+### App 👉 [Click here to try the Health Cost Predictor App](https://your-hcp.streamlit.app/)
 
-![App Interface](Capture.png)
+
 
 ## Model Training
 The predictive model was trained using a dataset from Kaggle. The dataset consists of various features related to healthcare costs.
